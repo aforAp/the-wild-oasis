@@ -1,5 +1,3 @@
 #The Wild Oasis
 
-Main Project
-
-#h1 this is a wonderful project
+Main Projects Build with React query and Supabase.
